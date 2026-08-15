@@ -34,12 +34,24 @@ writing-skills/
 
 ## Quick Start
 
-1. Read [`WRITING_SKILLS_GUIDE.md`](WRITING_SKILLS_GUIDE.md) and select the appropriate stack.
-2. For a normal new scene, use Character Canon + Story Reasoning.
+### Create Character Canon
+
+1. Give Grok 4.5 the relevant conversations, character notes, and story chapters.
+2. Run `Build Character Canon`.
+3. Generate one profile per character using `Character Canon Template`.
+4. Review inferred and unresolved claims.
+5. Approve the profiles before using them for fiction writing.
+
+### Write Fiction
+
+1. Load the approved character profiles.
+2. Apply Character Canon Usage.
 3. Add Novel Continuation when extending an existing story.
-4. Add skills from `scene/` or `discovery/` only when the scene genuinely needs them.
-5. Run Natural Prose & Dialogue Quality Gate after drafting Chinese fiction.
-6. For translation or cross-language adaptation, use Translation Fidelity, Fluency & Style instead.
+4. Run Story Reasoning & Narrative Control.
+5. Add scene or discovery skills only when needed.
+6. Finish with the appropriate quality gate.
+
+Do not run Build Character Canon during ordinary scene generation.
 
 These concise, model-agnostic specifications can be used as system or developer prompt modules, or adapted into skill packages for a specific agent platform. Store the actual character canon separately; this repository defines how canon should be used.
 
