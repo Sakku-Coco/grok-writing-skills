@@ -1,14 +1,21 @@
 # Writing Skills Guide
 
-## Default Stack
+## Canon Preparation Stack
 
-For fiction writing:
+Run only when creating or updating character profiles:
 
-**Character Canon → Novel Continuation (if needed) → Story Reasoning → Optional Scene/Discovery Skill → Draft → Quality Gate**
+**Source Material -> Build Character Canon -> Character Canon Template -> Human Review -> Approved Character Profiles**
+
+Do not include Build Character Canon in ordinary fiction generation.
+
+## Fiction Writing Stack
+
+**Approved Character Profiles -> Character Canon Usage -> Novel Continuation (if needed) -> Story Reasoning -> Optional Scene/Discovery Skill -> Draft -> Quality Gate**
 
 ## Select Only What Is Needed
 
-- **Normal scene:** Character Canon + Story Reasoning
+- **New or revised canon:** Build Character Canon + Character Canon Template
+- **Normal scene:** approved profiles + Character Canon Usage + Story Reasoning
 - **Continuation:** add Novel Continuation
 - **Emotionally charged interaction:** add Immersive Tension
 - **Adult sexual scene:** add Sex Scene Narrative
@@ -17,13 +24,15 @@ For fiction writing:
 - **Chinese fiction:** finish with Natural Prose & Dialogue Quality Gate
 - **Translation/localization:** use Translation Fidelity, Fluency & Style instead of the Chinese-fiction gate
 
-Subtext & Cinematic Behavior may be added when a scene is becoming too direct or keeps explaining its own emotional cues. Do not force it into every paragraph.
+Add Subtext & Cinematic Behavior when a scene becomes too direct or explains its own emotional cues. Do not force it into every paragraph.
 
 ## Ownership
 
 | Question | Primary owner |
 | --- | --- |
-| Who is this character? | Character Canon Usage |
+| How is character canon extracted or updated? | Build Character Canon |
+| Where is approved character information stored? | Character Canon Profile |
+| How should approved canon guide writing? | Character Canon Usage |
 | Where is the story now? | Novel Continuation |
 | What matters next? | Story Reasoning & Narrative Control |
 | How should this interaction feel? | Immersive Tension |
@@ -36,21 +45,22 @@ Subtext & Cinematic Behavior may be added when a scene is becoming too direct or
 
 ## Priority
 
-**Character Canon > Established Story Facts > Current Character and Relationship State > Story Reasoning > Scene-Specific Skills > Genre Tropes**
+**Explicit User Canon > Approved Character Profiles > Established Story Facts > Current Character and Relationship State > Story Reasoning > Scene-Specific Skills > Genre Tropes**
 
 ## Operating Rules
 
-1. One core rule has one primary owner; avoid duplicating it elsewhere.
-2. Skills are selective tools, not a mandatory checklist.
-3. Stop applying a technique once its narrative purpose is fulfilled.
-4. Examples are illustrative, never exhaustive or required plot beats.
-5. Perform routing and reasoning silently; output the story unless analysis is requested.
-6. If skills conflict, preserve canon, continuity, meaning, and character agency before style or intensity.
+1. Build or update canon separately from ordinary fiction generation.
+2. One core rule has one primary owner; avoid duplicating it elsewhere.
+3. Skills are selective tools, not a mandatory checklist.
+4. Stop applying a technique once its narrative purpose is fulfilled.
+5. Examples are illustrative, never exhaustive or required plot beats.
+6. Perform routing and reasoning silently; output the story unless analysis is requested.
+7. If skills conflict, preserve approved canon, continuity, meaning, and character agency before style or intensity.
 
 ## Two-Pass Drafting
 
-- **Pass 1 — Story:** generate from character logic and current story state.
-- **Pass 2 — Language:** check only expression, repetition, semantic gaps, and unwanted explanation; do not change the plot.
+- **Pass 1 - Story:** generate from approved character logic and current story state.
+- **Pass 2 - Language:** check expression, repetition, semantic gaps, and unwanted explanation without changing the plot.
 
-**Canon defines the characters. Continuity defines their current state. Reasoning decides what matters next. Scene skills shape presentation. Discovery expands possibilities. Quality gates refine the language.**
+**The Builder creates canon. Approved profiles store it. Character Canon Usage applies it. Continuity defines the current state. Reasoning decides what matters next. Scene skills shape presentation. Discovery expands possibilities. Quality gates refine the language.**
 
